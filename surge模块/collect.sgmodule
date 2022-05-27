@@ -1,3 +1,6 @@
+#!name=surge Panel面板展示汇总
+#!desc=包含：流量统计，网络状态，Netflix查询，Disney查询，YouTube，flushDNS
+
 [Panel]
 
 #流量统计
